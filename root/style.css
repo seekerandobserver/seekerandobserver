@@ -1,0 +1,25 @@
+body{
+	background-color : black;
+}
+a{
+	color: orange;
+}
+p {
+	font: Arial;
+	color: beige;
+}
+li {
+	size: 5;
+}
+ul{
+	color: blue;
+}
+ol{
+	color: red;
+}
+h1{
+	color: silver;
+}
+h2{
+	color: silver;
+}
